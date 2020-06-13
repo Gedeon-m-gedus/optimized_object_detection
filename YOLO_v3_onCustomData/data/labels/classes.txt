@@ -6,7 +6,7 @@ impala
 monkey
 lion
 leopard
-antelope
+crocodile
 buffalo
 hyna
 bird
