@@ -1,0 +1,37 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>265.jpg</filename>
+  <source>
+    <database>Coco database</database>
+  </source>
+  <size>
+    <width>4288</width>
+    <height>2848</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>impala</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>619</xmin>
+      <ymin>781</ymin>
+      <xmax>2822</xmax>
+      <ymax>2309</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>impala</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2453</xmin>
+      <ymin>904</ymin>
+      <xmax>3459</xmax>
+      <ymax>2225</ymax>
+    </bndbox>
+  </object>
+</annotation>

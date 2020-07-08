@@ -1,0 +1,13 @@
+giraffe
+person
+zebra
+elephant
+impala
+monkey
+lion
+leopard
+crocodile
+buffalo
+hyna
+bird
+gorilla
