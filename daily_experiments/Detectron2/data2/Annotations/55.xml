@@ -1,0 +1,37 @@
+<annotation>
+  <folder>VOC2007</folder>
+  <filename>55.jpg</filename>
+  <source>
+    <database>Coco database</database>
+  </source>
+  <size>
+    <width>1000</width>
+    <height>1333</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>zebra</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>273</xmin>
+      <ymin>437</ymin>
+      <xmax>921</xmax>
+      <ymax>1098</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>zebra</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>420</xmin>
+      <ymin>335</ymin>
+      <xmax>907</xmax>
+      <ymax>794</ymax>
+    </bndbox>
+  </object>
+</annotation>
