@@ -1,6 +1,5 @@
 
-# Training Yolo for Object Detection in PyTorch with Your Custom Dataset
+# Training Detectron2 for Object Detection with Your Custom Dataset in pascal voc format
 
-### Folder Structure
-![](utils/folder_structure.png)
+
 
